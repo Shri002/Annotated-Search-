@@ -1,8 +1,6 @@
 # Annotated Search Engine
 
-A Python-based search engine that leverages TF-IDF (Term Frequency-Inverse Document Frequency) to measure and rank term relevance across a document corpus.
-
-## 📋 Project Overview
+## Project Overview
 
 **Language:** Python  
 **Key Technology:** TF-IDF Algorithm  
